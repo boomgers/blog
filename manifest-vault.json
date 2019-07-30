@@ -5,7 +5,7 @@
 "background_color": "#2F2F35",
 "theme_color": "#2F2F35",
 "orientation": "portrait",
-"display": "standalone",
+"display": "browser",
 "start_url": "https://vault.boomgers.com",
 "lang": "es-MX",
 "icons": [
