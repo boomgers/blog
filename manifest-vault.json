@@ -5,8 +5,8 @@
 "background_color": "#2F2F35",
 "theme_color": "#2F2F35",
 "orientation": "portrait",
-"display": "browser",
-"start_url": "https://blog.boomgers.com",
+"display": "standalone",
+"start_url": "https://vault.boomgers.com",
 "lang": "es-MX",
 "icons": [
 {
