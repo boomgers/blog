@@ -4,7 +4,7 @@
 "description": "Vault • Boomgers",
 "background_color": "#2F2F35",
 "theme_color": "#2F2F35",
-"display": "standalone",
+"display": "minimal-ui",
 "orientation": "portrait",
 "start_url": "https://vault.boomgers.com",
 "lang": "es-MX",
