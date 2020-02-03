@@ -1,87 +1,87 @@
 @font-face {
 font-family: 'Bebas Neue Pro';
-src: url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProRegular.eot'); /* IE9 Compat Modes */
-src: url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProRegular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProRegular.woff') format('woff'), /* Modern Browsers */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProRegular.ttf')  format('truetype'), /* Safari, Android, iOS */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProRegular.svg#1cda1f59c436ad857ef0c5938e467af6') format('svg'); /* Legacy iOS */
+src: url('BebasNeueProRegular.eot'); /* IE9 Compat Modes */
+src: url('BebasNeueProRegular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+url('BebasNeueProRegular.woff') format('woff'), /* Modern Browsers */
+url('BebasNeueProRegular.ttf')  format('truetype'), /* Safari, Android, iOS */
+url('BebasNeueProRegular.svg#1cda1f59c436ad857ef0c5938e467af6') format('svg'); /* Legacy iOS */
 font-style: normal;
 font-weight: 400;
 }
 
 @font-face {
 font-family: 'Bebas Neue Pro';
-src: url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProRegularItalic.eot'); /* IE9 Compat Modes */
-src: url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProRegularItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProRegularItalic.woff') format('woff'), /* Modern Browsers */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProRegularItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProRegularItalic.svg#9e0471e12289626111f5e9ff3111391d') format('svg'); /* Legacy iOS */
+src: url('BebasNeueProRegularItalic.eot'); /* IE9 Compat Modes */
+src: url('BebasNeueProRegularItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+url('BebasNeueProRegularItalic.woff') format('woff'), /* Modern Browsers */
+url('BebasNeueProRegularItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
+url('BebasNeueProRegularItalic.svg#9e0471e12289626111f5e9ff3111391d') format('svg'); /* Legacy iOS */
 font-style: italic;
 font-weight: 400;
 }
 
 @font-face {
 font-family: 'Bebas Neue Pro';
-src: url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProBold.eot'); /* IE9 Compat Modes */
-src: url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProBold.woff') format('woff'), /* Modern Browsers */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProBold.ttf')  format('truetype'), /* Safari, Android, iOS */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProBold.svg#fbcc3894ce1694950ffa11aab83da597') format('svg'); /* Legacy iOS */
+src: url('BebasNeueProBold.eot'); /* IE9 Compat Modes */
+src: url('BebasNeueProBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+url('BebasNeueProBold.woff') format('woff'), /* Modern Browsers */
+url('BebasNeueProBold.ttf')  format('truetype'), /* Safari, Android, iOS */
+url('BebasNeueProBold.svg#fbcc3894ce1694950ffa11aab83da597') format('svg'); /* Legacy iOS */
 font-style: normal;
 font-weight: 700;
 }
 
 @font-face {
 font-family: 'Bebas Neue Pro';
-src: url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProBoldItalic.eot'); /* IE9 Compat Modes */
-src: url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProBoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProBoldItalic.woff') format('woff'), /* Modern Browsers */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProBoldItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProBoldItalic.svg#bc4d954363db885259d2526a48c9b3db') format('svg'); /* Legacy iOS */
+src: url('BebasNeueProBoldItalic.eot'); /* IE9 Compat Modes */
+src: url('BebasNeueProBoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+url('BebasNeueProBoldItalic.woff') format('woff'), /* Modern Browsers */
+url('BebasNeueProBoldItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
+url('BebasNeueProBoldItalic.svg#bc4d954363db885259d2526a48c9b3db') format('svg'); /* Legacy iOS */
 font-style: italic;
 font-weight: 700;
 }
 
 @font-face {
 font-family: 'Bebas Neue Pro Expanded';
-src: url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProExpandedRegular.eot'); /* IE9 Compat Modes */
-src: url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProExpandedRegular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProExpandedRegular.woff') format('woff'), /* Modern Browsers */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProExpandedRegular.ttf')  format('truetype'), /* Safari, Android, iOS */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProExpandedRegular.svg#6e6251bb54d7143837d48311cda15f19') format('svg'); /* Legacy iOS */
+src: url('BebasNeueProExpandedRegular.eot'); /* IE9 Compat Modes */
+src: url('BebasNeueProExpandedRegular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+url('BebasNeueProExpandedRegular.woff') format('woff'), /* Modern Browsers */
+url('BebasNeueProExpandedRegular.ttf')  format('truetype'), /* Safari, Android, iOS */
+url('BebasNeueProExpandedRegular.svg#6e6251bb54d7143837d48311cda15f19') format('svg'); /* Legacy iOS */
 font-style: normal;
 font-weight: 400;
 }
 
 @font-face {
 font-family: 'Bebas Neue Pro Expanded';
-src: url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProExpandedRegularItalic.eot'); /* IE9 Compat Modes */
-src: url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProExpandedRegularItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProExpandedRegularItalic.woff') format('woff'), /* Modern Browsers */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProExpandedRegularItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProExpandedRegularItalic.svg#571b7168d38835319745121da715e467') format('svg'); /* Legacy iOS */
+src: url('BebasNeueProExpandedRegularItalic.eot'); /* IE9 Compat Modes */
+src: url('BebasNeueProExpandedRegularItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+url('BebasNeueProExpandedRegularItalic.woff') format('woff'), /* Modern Browsers */
+url('BebasNeueProExpandedRegularItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
+url('BebasNeueProExpandedRegularItalic.svg#571b7168d38835319745121da715e467') format('svg'); /* Legacy iOS */
 font-style: italic;
 font-weight: 400;
 }
 
 @font-face {
 font-family: 'Bebas Neue Pro Expanded';
-src: url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProExpandedBold.eot'); /* IE9 Compat Modes */
-src: url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProExpandedBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProExpandedBold.woff') format('woff'), /* Modern Browsers */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProExpandedBold.ttf')  format('truetype'), /* Safari, Android, iOS */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProExpandedBold.svg#c342ca91c8d04f4a4f36cafe6f7a4a57') format('svg'); /* Legacy iOS */
+src: url('BebasNeueProExpandedBold.eot'); /* IE9 Compat Modes */
+src: url('BebasNeueProExpandedBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+url('BebasNeueProExpandedBold.woff') format('woff'), /* Modern Browsers */
+url('BebasNeueProExpandedBold.ttf')  format('truetype'), /* Safari, Android, iOS */
+url('BebasNeueProExpandedBold.svg#c342ca91c8d04f4a4f36cafe6f7a4a57') format('svg'); /* Legacy iOS */
 font-style: normal;
 font-weight: 700;
 }
 
 @font-face {
 font-family: 'Bebas Neue Pro Expanded';
-src: url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProExpandedBoldItalic.eot'); /* IE9 Compat Modes */
-src: url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProExpandedBoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProExpandedBoldItalic.woff') format('woff'), /* Modern Browsers */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProExpandedBoldItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
-url('https://github.com/boomgers/blog/blob/master/font/BebasNeueProExpandedBoldItalic.svg#5240f3dc9301a2dc6567e91b47d3d010') format('svg'); /* Legacy iOS */
+src: url('BebasNeueProExpandedBoldItalic.eot'); /* IE9 Compat Modes */
+src: url('BebasNeueProExpandedBoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+url('BebasNeueProExpandedBoldItalic.woff') format('woff'), /* Modern Browsers */
+url('BebasNeueProExpandedBoldItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
+url('BebasNeueProExpandedBoldItalic.svg#5240f3dc9301a2dc6567e91b47d3d010') format('svg'); /* Legacy iOS */
 font-style: italic;
 font-weight: 700;
 }
