@@ -2,15 +2,15 @@
 "name": "Blog • Boomgers",
 "short_name": "Blog • Boomgers",
 "description": "Blog • Boomgers",
-"background_color": "#2F2F35",
-"theme_color": "#2F2F35",
+"background_color": "#0B0D11",
+"theme_color": "#0B0D11",
 "orientation": "portrait",
 "display": "browser",
 "start_url": "https://blog.boomgers.com",
 "lang": "es-MX",
 "icons": [
 {
-"src": "https://static.tumblr.com/j5lhf9c/KYtpujwwk/android-chrome-icon.png",
+"src": "https://static.tumblr.com/j5lhf9c/rkkq6utlj/android-chrome-icon.png",
 "sizes": "192x192",
 "type": "image/png"
 }
