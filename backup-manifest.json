@@ -1,12 +1,12 @@
 {
-"name": "Central • Boomgers",
-"short_name": "Central • Boomgers",
-"description": "Central • Boomgers",
+"name": "Backup • Boomgers",
+"short_name": "Backup • Boomgers",
+"description": "Backup • Boomgers",
 "background_color": "#080808",
 "theme_color": "#080808",
 "orientation": "portrait",
 "display": "browser",
-"start_url": "https://central.boomgers.com",
+"start_url": "https://backup.boomgers.com",
 "lang": "es-MX",
 "icons": [
 {
